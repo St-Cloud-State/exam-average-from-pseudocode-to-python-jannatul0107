@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s_8S_pef)
 # Assignment: Calculate Average of Three Scores
 
 This assignment asks you to write a Python program that collects three exam scores from the user, uses a function you create to compute the average, and then prints each score and the final average on separate lines.
